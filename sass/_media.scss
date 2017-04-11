@@ -1,0 +1,284 @@
+@import "bourbon";
+@media only screen and (max-width: 1200px) {}
+
+@media only screen and (max-width: 992px) {
+    .mobile-logo {
+        margin-top: 10px;
+        width: 209px;
+        height: 48px;
+    }
+    .verticals-img {
+        position: relative;
+        top: 10px;
+    }
+    .desktop {
+        display: none;
+    }
+    .mobile {
+        display: block;
+    }
+    .illustration-1 {
+        bottom: 63px;
+    }
+    .plus-items {
+        margin-top: 0px;
+    }
+    .top-header-block {
+        width: 100%;
+        position: center;
+        background-position: 43% 53%;
+        -moz-background-size: 1371px 843px;
+        -o-background-size: 1371px 843px;
+        background-size: 1371px 843px;
+    }
+    .cenral-pluses-block {
+        margin-top: 30px;
+    }
+    .desk-solution-text {
+        font-size: 45px;
+        text-align: center;
+    }
+    .delight-text {
+        text-align: center;
+    }
+    .header-btns {
+        text-align: center;
+    }
+    .watch-video-btn {
+        margin-top: 100px;
+        margin-left: 0px;
+    }
+    .no-credit-card-text {
+        text-align: center;
+        margin-left: 0px;
+    }
+    .supporting-companies-logo {
+        text-align: center;
+        padding-left: 0px;
+        padding-right: 0px;
+        bottom: 0px;
+        margin-bottom: 0px;
+    }
+    .problems-we-solve {
+        padding-top: 30px;
+    }
+    .pluses-form {
+        margin-top: 30px;
+    }
+    .illustration-2 {
+        margin: 0 auto;
+        margin-top: 10px;
+        margin-bottom: 50px;
+    }
+    .illustration-3 {
+        margin: 0 auto;
+        margin-top: 10px;
+        margin-bottom: 50px;
+    }
+    .verticals {
+        padding-top: 22px;
+    }
+    .verticals-text {
+        margin-top: 0px;
+    }
+    .line-verticals {
+        margin-bottom: 40px;
+    }
+    .verticals-item {
+        text-align: center;
+    }
+    .footer {
+        text-align: center;
+    }
+    .footer .sitemap {
+        display: block;
+        float: none;
+    }
+    .popover-content {
+        padding: 5px 17px;
+    }
+    .source {
+        color: #fff;
+        font-size: 12px;
+        font-family: "Proxima-bold";
+        position: relative;
+        display: block;
+        margin: 0 auto;
+        margin-top: 15px;
+        right: 0px;
+    }
+}
+
+@media only screen and (max-width: 768px) {
+    .header-btn {
+        width: 92px;
+        height: 38px;
+    }
+    .top-header-block {
+        width: 100%;
+        position: center;
+        background-position: 43% 53%;
+        -moz-background-size: 1071px 643px;
+        -o-background-size: 1071px 643px;
+        background-size: 1071px 643px;
+    }
+    .mobile-logo {
+        margin: 0px;
+        width: 209px;
+        height: 48px;
+    }
+    .cenral-pluses-block {
+        margin-top: 30px;
+    }
+    .illustration-2 {
+        margin: 0 auto;
+        margin-top: 10px;
+        margin-bottom: 50px;
+    }
+    .illustration-3 {
+        margin: 0 auto;
+        margin-top: 10px;
+        margin-bottom: 50px;
+    }
+    .navbar-default .navbar-toggle:focus,
+    .navbar-default .navbar-toggle:hover {
+        background-color: #fff;
+    }
+    .pluses-form {
+        margin-top: 30px;
+    }
+    .navbar-toggle {
+        border: none;
+    }
+    .navbar-nav {
+        text-align: center;
+        display: block;
+        margin-top: 39px;
+        float: none;
+    }
+    .desk-solution-text {
+        font-size: 27px;
+        text-align: center;
+    }
+    .delight-text {
+        text-align: center;
+    }
+    .header-btns {
+        text-align: center;
+    }
+    .watch-video-btn {
+        margin-top: 100px;
+        margin-left: 0px;
+    }
+    .top-header-block {
+        height: 617px;
+    }
+    .no-credit-card-text {
+        text-align: center;
+        margin-left: 0px;
+    }
+    .supporting-companies-logo {
+        text-align: center;
+        padding-left: 0px;
+        padding-right: 0px;
+        bottom: 0px;
+        margin-bottom: 0px;
+    }
+    .problems-solve-text {
+        text-align: center;
+    }
+    .half-line {
+        margin: 0 auto;
+        margin-bottom: 30px;
+    }
+    .navbar-brand {
+        float: none;
+    }
+    .supporting-companies-mobile-img1 {
+        margin-top: 40px;
+    }
+    .supporting-companies-mobile-img2 {
+        margin-top: 40px;
+    }
+    .supporting-companies-mobile-img3 {
+        margin-top: 40px;
+        margin-left: 0px;
+    }
+    .supporting-companies-mobile-img4 {
+        margin-top: 40px;
+    }
+    .get-app-img {
+        padding-left: 0px;
+    }
+    .check-img {
+        padding-left: 10px;
+        margin-right: 6px;
+    }
+
+    .plus{
+        padding-left: 10px;
+        margin-right: 6px;
+    }
+    .get-started-btn-2 {
+        display: block;
+        margin: 0 auto;
+        margin-top: 40px;
+        margin-bottom: 40px;
+        float: none;
+    }
+    .verticals {
+        padding-top: 22px;
+    }
+    .verticals-text {
+        margin-top: 0px;
+    }
+    .line-verticals {
+        margin-bottom: 40px;
+    }
+    .verticals-item {
+        text-align: center;
+    }
+    .help-desk-text {
+        margin-top: 0px;
+        font-size: 24px;
+    }
+    .percentage-text {
+        margin-bottom: 50px;
+        text-align: center;
+        margin-left: 0;
+    }
+    .loader {
+        margin: 0 auto;
+    }
+    .try-all-feahures-header-text2 {
+        font-size: 25px;
+    }
+    .try-all-feahures-header-text {
+        font-size: 25px;
+    }
+    .footer {
+        text-align: center;
+    }
+    .footer .sitemap {
+        display: block;
+        float: none;
+    }
+}
+
+@media only screen and (max-width: 480px) {}
+
+@media only screen and (max-width: 320px) {}
+
+@media only screen and (min-width: 320px) {}
+
+@media only screen and (min-width: 480px) {}
+
+@media only screen and (min-width: 768px) {}
+
+@media only screen and (min-width: 992px) {
+    .mobile {
+        display: none;
+    }
+}
+
+@media only screen and (min-width: 1200px) {}
